@@ -1,0 +1,14 @@
+{
+  "name": "motor-imagery-tutorial",
+  "version": "1.0.0",
+  "description": "EEG motor imagery classification in Node.js with BCI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierce Stegman <pwstegman@gmail.com> (https://github.com/pwstegman)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bcijs": "^1.5.1"
+  }
+}
