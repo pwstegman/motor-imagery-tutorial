@@ -1,0 +1,6 @@
+Data in .mat format from http://bnci-horizon-2020.eu/database/data-sets "Four class motor imagery (001-2014)."
+
+The data was converted to a CSV format using the Octave/MATLAB script found in the root of this project directory
+
+License: Creative Commons Attribution No Derivatives license (CC BY-ND 4.0) https://creativecommons.org/licenses/by-nd/4.0/legalcode
+Licensor: Institute for Knowledge Discovery, Graz University of Technology
