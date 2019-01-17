@@ -17,7 +17,7 @@ const bci = require('bcijs');
 
     // Load testing data
     let feetTesting = await bci.loadCSV('data/feet-testing.csv');
-    let rightTesting = await bci.loadCSV('data/rightHand-testing.csv');
+    let rightTesting = await bci.loadCSV('data/righthand-testing.csv');
 
     // Compute testing data features
     let featuresFeetTesting = computeFeatures(cspParams, feetTesting);
