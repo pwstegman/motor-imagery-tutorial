@@ -10,16 +10,22 @@ From within this project's directory, run
 npm install
 ```
 
-Then for classification results which allow unknown values, run
+Then, for classification results which don't allow unknown values, run
 
 ```bash
-node ./classifyImagery-unknowns.js
+node ./classify-noUnknowns.js
 ```
 
-For classification results which don't allow unknown values, run
+For classification results which allow unknown values, run
 
 ```bash
-node ./classifyImagery-noUnknowns.js
+node ./classify-unknowns.js
+```
+
+For results with a bandpass filter and logistic regression added, run
+
+```bash
+node ./classify-unknowns-bandpass-logistic.js
 ```
 
 ## Data
