@@ -9,6 +9,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "bcijs": "^1.5.1"
+    "bcijs": "^1.5.1",
+    "fili": "^2.0.3",
+    "js-regression": "^1.0.10"
   }
 }
