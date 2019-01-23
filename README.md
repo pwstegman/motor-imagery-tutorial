@@ -1,6 +1,6 @@
 # EEG Motor Imagery Classification in Node.js with BCI.js Tutorial Code
 
-Here you can find the code and data which accompany the [BCI.js](https://github.com/pwstegman/bcijs) motor imagery tutorial.
+Here you can find the code and data which accompany the [motor imagery tutorial](https://medium.com/@pwstegman/eeg-motor-imagery-classification-in-node-js-with-bci-js-d21f29cf165) for [BCI.js](https://github.com/pwstegman/bcijs).
 
 ## Getting Started
 
